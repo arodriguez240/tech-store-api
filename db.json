@@ -1,0 +1,537 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "MacBook Pro 13.3 Laptop - Apple M1 chip - 8GB Memory - 256GB SSD (Latest Model) - Space Gray",
+    "price": 114999,
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6418/6418601_sd.jpg;maxHeight=640;maxWidth=550",
+    "colors": [
+      "#C6C6C6",
+      "#676767",
+      "#C6C6C6"
+    ],
+    "company": "Apple",
+    "description": " The Apple M1 chip redefines the 13-inch MacBook Pro. Featuring an 8-core CPU that flies through complex workflows in photography, coding, video editing, and more. Incredible 8-core GPU that crushes graphics-intensive tasks and enables super-smooth gaming. An advanced 16-core Neural Engine for more machine learning power in your favorite apps. Superfast unified memory for fluid performance. And the longest-ever battery life in a Mac at up to 20 hours.² It’s Apple's most popular pro notebook. Way more performance and way more pro.",
+    "category": "laptop",
+    "shipping": true
+    },
+    {
+      "id": 2,
+      "name": "ASUS - ROG Zephyrus M15 15.6 4K Ultra HD Gaming Laptop - Intel Core i7 - 16GB Memory - NVIDIA GeForce RTX 2060 - 1TB SSD - Prism Black",
+    "price": 124999,
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6403/6403817_sd.jpg;maxHeight=640;maxWidth=550",
+    "colors": [
+      "#000000"
+    ],
+    "company": "Asus",
+    "description": "ASUS ROG Zephyrus M15 Gaming Laptop: Put your best foot forward with this 15.6-inch Ultra HD ASUS notebook PC. The VR-Ready NVIDIA GeForce RTX 2060 graphics card delivers hyperrealistic visuals in immersive games, while the Intel Core i7 processor and 16GB of RAM ensure smooth gameplay and effortless multitasking. This ASUS notebook PC features a 1TB SSD for speed and ample storage capacity.",
+    "category": "laptop",
+    "shipping": true
+    },
+    {
+      "id": 3,
+      "name": "HP - 15.6 Touch-screen Laptop - Intel Core i3 - 8GB Memory - 256GB SSD - Natural Silver",
+    "price": 42999,
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6455/6455186_sd.jpg;maxHeight=640;maxWidth=550",
+    "colors": [
+      "#c0c0c0"
+    ],
+    "company": "HP",
+    "description": "Designed to keep you productive and entertained from anywhere, the HP 15-inch laptop combines long lasting battery life with a sleek and portable, micro-edge bezel design.",
+    "category": "laptop"
+    },
+    {
+      "id": 4,
+      "name": "Apple - MacBook Pro 16 Display with Touch Bar - Intel Core i9 - 64GB Memory - 4TB SSD - Silver",
+    "price": 469900,
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6394/6394392_sd.jpg;maxHeight=640;maxWidth=550",
+    "colors": [
+      "#676767"
+    ],
+    "company": "Apple",
+    "description": "Apple MacBook Pro Laptop: Capture the finest details and ensure easy collaboration using this MacBook Pro laptop. An octa-core Intel Core i9 processor and 64GB of RAM let you enjoy fast speeds across all your programs, and the generous 16-inch Retina display ensures you have plenty of workspace. This MacBook Pro laptop has a Magic Keyboard for a quiet typing experience and an AMD Radeon 5300M graphics card for 3D work, CAD and modeling.",
+    "category": "laptop"
+    },
+    {
+      "id": 5,
+      "name": "Microsoft - Surface Pro 7 - 12.3 Touch Screen - Intel Core i5 - 8GB Memory - 256GB SSD - Device Only (Latest Model) - Platinum",
+    "price": 119999,
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6375/6375620_sd.jpg;maxHeight=640;maxWidth=550",
+    "colors": [
+      "#E5E4E2"
+    ],
+    "company": "Microsoft",
+    "description": "At your desk, on the couch, or out in the yard, Surface Pro 7 adapts to the way you work with laptop-to-tablet versatility. And now, it delivers more power than ever, with a laptop-class Intel® Core™ processor, all-day battery¹, Instant On, and improved graphics — plus more multitasking connections, including both USB-C® and USB-A ports.",
+    "category": "laptop"
+    },
+    {
+      "id": 6,
+      "name": "Dell - Inspiron 15.6 FHD Touch Laptop -Intel Core i5-1035G1 - 8GB RAM - 256 GB SSD - Black",
+    "price": 56999,
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6447/6447114_sd.jpg;maxHeight=640;maxWidth=550",
+    "colors": [
+      "#000000"
+    ],
+    "company": "Dell",
+    "description": "Get your hands on a versatile 15 inch laptop packed with features for an enjoyable multimedia experience. All at an affordable price. This laptop comes with Windows 10 Home in S Mode.",
+    "category": "laptop"
+    },
+    {
+      "id": 7,
+      "name": "Sony - DSC-W800 20.1-Megapixel Digital Camera - Black",
+    "price": 9999,
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4349/4349004_sd.jpg;maxHeight=640;maxWidth=550",
+    "colors": [
+      "#000000"
+    ],
+    "company": "Sony",
+    "description": "This Sony DSC-W800 digital camera's 20.1-megapixel, 1/2.3 Super HAD CCD sensor enables you to shoot stunning photographs and 720p video footage. The 2.7 Clear Photo LCD lets you view stored content. .",
+    "category": "camera"
+    },
+    {
+      "id": 8,
+      "name": "Nikon - D3500 DSLR Video Two Lens Kit with AF-P DX NIKKOR 18-55mm f/3.5-5.6G VR & AF-P DX NIKKOR 70-300mm f/4.5-6.3G ED - Black",
+    "price": 69999,
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6296/6296212_sd.jpg;maxHeight=640;maxWidth=550",
+    "featured": true,
+    "colors": [
+      "#000000"
+    ],
+    "company": "Nikon",
+    "description": "Take incredible photos with this Nikon two-lens camera kit. The included camera has a 24.2-megapixel sensor for producing high-resolution images, and the 5 fps burst mode lets you get the exact shot you're after. This Nikon two-lens camera kit comes with an 18-55mm wide lens and a 70-300mm telephoto lens for flexible shooting options.",
+    "category": "camera"
+    },
+    {
+      "id": 9,
+      "name": "Polaroid Now Instant Film Camera Bundle - White",
+    "price": 12999,
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6404/6404361_sd.jpg;maxHeight=640;maxWidth=550",
+    "colors": [
+      "#ffffff"
+    ],
+    "company": "Polaroid",
+    "description": "Capture and print memories with this Polaroid Now Everything Box. The white camera with a classic housing has a powerful flash for illumination, and the included neck strap secures your device during excursions. This Polaroid Now Everything Box contains two packs of color film for developing your shots on the go, and the USB cable allows hassle-free charging.",
+    "category": "camera"
+    },
+    {
+      "id": 10,
+      "name": "Panasonic - LUMIX GH5 Mirrorless 4K Photo Digital Camera Body with LEICA DG 12-60mm F2.8-4.0 Lens - Black",
+    "price": 189999,
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5997/5997700_sd.jpg;maxHeight=640;maxWidth=550",
+    "colors": [
+      "#000000"
+    ],
+    "company": "Panasonic",
+    "description": "Handle your next location shoot with this Panasonic Lumix camera kit. The mirrorless camera delivers 6K photographs with built-in image stabilization at 20.3 megapixels, and Bluetooth compatibility means you transfer shots quickly. This Panasonic Lumix camera kit comes with a Leica 12-60mm F2.8-4.0 lens for function right out of the box.",
+    "category": "camera"
+    },
+    {
+      "id": 11,
+      "name": "Sony - Handycam CX405 Flash Memory Camcorder - Black",
+    "price": 22999,
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/2964/2964179_rd.jpg;maxHeight=640;maxWidth=550",
+    "colors": [
+      "#000000"
+    ],
+    "company": "Sony",
+    "description": "Utilizing Optical SteadyShot image stabilization, a BIONZ X image processor and an Exmor R CMOS sensor, this Sony Handycam HDRCX405/B camcorder enables you to capture video footage with 1920 x 1080 resolution and sharp still images.",
+    "category": "camera"
+    },
+    {
+      "id": 12,
+      "name": "Citizen - CZ Smart HR Heart Rate Smartwatch 46mm Black Silicon Stainless Steel watch, Powered by Google Wear OS - Black",
+    "price": 39500,
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6439/6439600_sd.jpg;maxHeight=640;maxWidth=550",
+    "colors": [
+      "#000000"
+    ],
+    "company": "Citizen",
+    "description": "The new CZ Smart smartwatch is designed for every moment. Inspired by the rich design of Citizen’s iconic sport technical timepieces, CZ Smart marries modern technologies with the style and quality you expect from Citizen. The sport edition features a color touchscreen dial and black anodized aluminum top ring, framed and finished with a silver-tone stainless steel case and comfortable black silicone band. CZ Smart also features a 46mm three-piece case construction and a rugged red bezel design. Powered with Wear OS by Google™, CZ Smart is compatible with both iPhone® and Android™ phones to fit your lifestyle. Plus, the customizable menu of dials and technology that provides the information you need at your fingertips.",
+    "category": "watch",
+    "shipping": true
+    },
+    {
+      "id": 13,
+      "name": "Apple Watch Series 6 (GPS) 44mm Space Gray Aluminum Case with Black Sport Band - Space Gray",
+    "price": 42900,
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6215/6215931_sd.jpg;maxHeight=640;maxWidth=550",
+    "colors": [
+      "#343d52"
+    ],
+    "company": "Apple",
+    "description": "Apple Watch Series 6 lets you measure your blood oxygen level with a revolutionary new sensor and app.¹ Take an ECG from your wrist.² See your fitness metrics on the enhanced Always-On Retina display, now 2.5x brighter outdoors when your wrist is down. Set a bedtime routine and track your sleep. And reply to calls and messages right from your wrist. It’s the ultimate device for a healthier, more active, more connected life.",
+    "category": "watch"
+    },
+    {
+      "id": 14,
+      "name": "Samsung - Galaxy Watch Active Smartwatch 40mm Aluminum - Rose Gold",
+    "price": 13999,
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6325/6325857_sd.jpg;maxHeight=640;maxWidth=550",
+    "colors": [
+      "#b76e79"
+    ],
+    "company": "Samsung",
+    "description": "The lightweight yet durable Galaxy Watch Active smartwatch understands the way you work out. With auto workout tracking, you'll have the power to reach new goals, and a suite of apps helps you monitor your stress and sleep while you stay connected.",
+    "category": "watch"
+    },
+    {
+      "id": 15,
+      "name": "Garmin - Fēnix 6X Pro Solar GPS/GLONASS/Galileo Watch - Black",
+    "price": 94999,
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6361/6361879_sd.jpg;maxHeight=640;maxWidth=550",
+    "featured": true,
+    "colors": [
+      "#ffffff"
+    ],
+    "company": "Garmin",
+    "description": "Keep track of your fitness progress with this Garmin fenix 6X Pro Solar multisport GPS watch. The satellite navigation gives you the confidence to venture into paths less beaten, while the solar charging capability extends the battery life when outdoors. This Garmin fenix 6X Pro Solar multisport GPS watch features pace guidance assistance to keep you on your toes.",
+    "category": "watch"
+    },
+    {
+      "id": 16,
+      "name": "Samsung - 50 Class 7 Series LED 4K UHD Smart Tizen TV",
+    "price": 39999,
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6401/6401738_rd.jpg;maxHeight=640;maxWidth=550",
+    "colors": [
+      "#ffffff"
+    ],
+    "company": "Samsung",
+    "description": "Build an immersive media room with this 50-inch Samsung Smart TV. The Crystal 4K processor automatically improves the image quality of everything you watch, and the HDR technology makes colors look vivid and lifelike. This Samsung Smart TV has a universal guide that organizes live and streamed content so you can find what you're looking for quickly.",
+    "category": "tv"
+    },
+    {
+      "id": 17,
+      "name": "VIZIO - 40 Class D-Series LED Full HD SmartCast TV",
+    "price": 19999,
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6288/6288347_sd.jpg;maxHeight=640;maxWidth=550",
+    "colors": [
+      "#ffffff"
+    ],
+    "company": "VIZIO",
+    "description": "Discover a world of entertainment with this 40-inch VIZIO smart TV. It provides easy access to streaming apps such as Netflix and more than 100 free channels, and the Full HD resolution, full-array LED backlighting and effective refresh rate produce immersive image quality. This VIZIO smart TV has a USB port and HDMI inputs to connect additional media sources.",
+    "category": "tv"
+    },
+    {
+      "id": 18,
+      "name": "LG - 70 Class UN7070 Series LED 4K UHD Smart webOS TV",
+    "price": 56999,
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6417/6417305_sd.jpg;maxHeight=640;maxWidth=550",
+    "colors": [
+      "#ffffff"
+    ],
+    "company": "LG",
+    "description": "LG UHD TV is your ticket to a stunning picture. Get easy access to new and popular apps like Disney+, the Apple TV app, Sling and more. Elevate entertainment with surround sound, auto picture settings of Filmmaker Mode™ and convenient updates of Sports Alert.",
+    "category": "tv"
+    },
+    {
+      "id": 19,
+      "name": "Toshiba - 50 Class LED 4K UHD Smart FireTV Edition TV",
+    "price": 34999,
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6394/6394759_sd.jpg;maxHeight=640;maxWidth=550",
+    "colors": [
+      "#ffffff"
+    ],
+    "company": "Toshiba",
+    "description": "Enjoy visual content in Ultra HD quality with this 50-inch Toshiba 4K Fire TV. Compatibility with popular virtual assistants supports voice control, while the 60Hz refresh rate ensures stutter-free transitions. This Toshiba 4K Fire TV features USB and HDMI inputs for connections to external sources and a tuner to access free-to-air channels.",
+    "category": "tv"
+    },
+    {
+      "id": 20,
+      "name": "Samsung - 98 Class Q900 Series LED 8K UHD Smart Tizen TV",
+    "price": 5999999,
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6352/6352561_sd.jpg;maxHeight=640;maxWidth=550",
+    "featured": true,
+    "colors": [
+      "#ffffff"
+    ],
+    "company": "Samsung",
+    "description": "Watch your content in 8K resolution for stunning detail on this Samsung 98-inch QLED smart TV. The built-in intelligent mode optimizes sound and adjusts brightness according to surroundings for an immersive cinematic experience, while an ultra viewing angle reduces glare no matter where you sit. This Samsung 98-inch QLED smart TV comes with OneRemote, which lets you easily detect and connect to compatible devices and content.",
+    "category": "tv"
+    },
+    {
+      "id": 21,
+      "name": "Google - Pixel 4a 128GB (Unlocked) - Just Black",
+    "price": 29999,
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6422/6422517_sd.jpg;maxHeight=640;maxWidth=550",
+    "colors": [
+      "#ffffff"
+    ],
+    "company": "Google",
+    "description": "Meet Pixel 4a, the helpful Google phone at a helpful price. It comes packed with all the things you want in a phone, for a lot less than you’d expect.",
+    "category": "cell"
+    },
+    {
+      "id": 22,
+      "name": "Samsung - Galaxy Note20 5G 128GB (Unlocked) - Mystic Green",
+    "price": 94999,
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6420/6420837_sd.jpg;maxHeight=640;maxWidth=550",
+    "colors": [
+      "#979c88"
+    ],
+    "company": "Samsung",
+    "description": "The power to work. The power to play. This isn't the time to slow down, this is the time to forge ahead and take the opportunities that come your way. You don’t need a smartphone. You need a power phone. One as beautiful as it is intelligent with a pen that is mightier, a battery that doesn't leave you hanging and is as well-connected as you. Samsung Galaxy Note20 5G Unlocked takes power to the next level with cutting-edge technology, letting you master whatever you choose to do next.",
+    "category": "cell"
+    },
+    {
+      "id": 23,
+      "name": "Apple - iPhone 12 Pro Max 5G 128GB - Gold (Verizon)",
+    "price": 109999,
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6009/6009962_sd.jpg;maxHeight=640;maxWidth=550",
+    "featured": true,
+    "colors": [
+      "#FFD700"
+    ],
+    "company": "Apple",
+    "description": "iPhone 12 Pro Max. 5G to download huge files on the go and stream HDR video.¹ Larger 6.7-inch Super Retina XDR display.² Ceramic Shield with 4x better drop performance.³ Incredible low-light photography with the best Pro camera system on an iPhone, and 5x optical zoom range. Cinema-grade Dolby Vision video recording, editing, and playback. Night mode portraits and next-level AR experiences with the LiDAR Scanner. Powerful A14 Bionic chip. And new MagSafe accessories for easy attach and faster wireless charging.⁴ For infinitely spectacular possibilities.",
+    "category": "cell"
+    },
+    {
+      "id": 24,
+      "name": "Apple - iPhone 12 Pro Max 5G 128GB - Pacific Blue",
+    "price": 109999,
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6009/6009964_sd.jpg;maxHeight=640;maxWidth=550",
+    "colors": [
+      "#1ca9c9"
+    ],
+    "company": "Apple",
+    "description": "iPhone 12 Pro Max. 5G to download huge files on the go and stream HDR video.¹ Larger 6.7-inch Super Retina XDR display.² Ceramic Shield with 4x better drop performance.³ Incredible low-light photography with the best Pro camera system on an iPhone, and 5x optical zoom range. Cinema-grade Dolby Vision video recording, editing, and playback. Night mode portraits and next-level AR experiences with the LiDAR Scanner. Powerful A14 Bionic chip. And new MagSafe accessories for easy attach and faster wireless charging.⁴ For infinitely spectacular possibilities.",
+    "category": "cell"
+    },
+    {
+      "id": 25,
+      "name": "Apple - iPhone 12 Pro Max 5G 128GB - Graphite",
+    "price": 109999,
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6009/6009939_sd.jpg;maxHeight=640;maxWidth=550",
+    "colors": [
+      "#251607"
+    ],
+    "company": "Apple",
+    "description": "iPhone 12 Pro Max. 5G to download huge files on the go and stream HDR video.¹ Larger 6.7-inch Super Retina XDR display.² Ceramic Shield with 4x better drop performance.³ Incredible low-light photography with the best Pro camera system on an iPhone, and 5x optical zoom range. Cinema-grade Dolby Vision video recording, editing, and playback. Night mode portraits and next-level AR experiences with the LiDAR Scanner. Powerful A14 Bionic chip. And new MagSafe accessories for easy attach and faster wireless charging.⁴ For infinitely spectacular possibilities.",
+    "category": "cell"
+    },
+    {
+      "id": 26,
+      "name": "Apple - 10.2-Inch iPad - Latest Model - (8th Generation) with Wi-Fi - 32GB - Graphite",
+    "price": 32999,
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5199/5199701_sd.jpg;maxHeight=640;maxWidth=550",
+    "colors": [
+      "#251607"
+    ],
+    "company": "Apple",
+    "description": "The new iPad. It's your digital notebook, mobile office, photo studio, game console, and personal cinema. With the A12 Bionic chip that can easily power essential apps and immersive games. So you can edit a document while researching on the web and making a FaceTime call to a colleague at the same time. Apple Pencil makes note-taking with iPad a breeze.¹ Attach a full-size Smart Keyboard for comfortable typing.¹ And go further with Wi-Fi and Gigabit-class LTE² and all-day battery life.³",
+    "category": "tablet"
+    },
+    {
+      "id": 27,
+      "name": "Samsung - Galaxy Tab S7 Plus 12.4” 128GB With S Pen Wi-Fi Verizon 5G - Mystic Black",
+    "price": 104999,
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6431/6431251_sd.jpg;maxHeight=640;maxWidth=550",
+    "colors": [
+      "#353A3C"
+    ],
+    "company": "Samsung",
+    "description": "With the power of a PC and the mobility of a tablet, the Samsung Galaxy Tab S7+ Wi-Fi is your secret weapon for getting more done—wherever you are. Enjoy the advantages of a true 2-in-1 device, where an expanded keyboard(1) and built-in memory up to 128GB are backed by a battery that lasts the entire workday(2) for ultimate portability. With a redesigned, minimal-lag S Pen that lets you control a presentation with the tap of a finger and an expanded edge-to- edge screen(3) for better streaming, gaming and video chatting, the Galaxy Tab S7+ Wi-Fi simplifies life, work and play. **(1) Keyboard sold separately. **(2) Battery life may vary depending on network environment, usage patterns and other factors. **(3) S7+ 12.4” screen is a sAMOLEDTM screen.",
+    "category": "tablet"
+    },
+    {
+      "id": 28,
+      "name": "Surface Pro X - 13 Touch Screen - Microsoft SQ1 - 8GB Memory - 256GB SSD - WiFi + 4G LTE - Device Only - Matte Black",
+    "price": 99999,
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6375/6375625cv12d.jpg;maxHeight=640;maxWidth=550",
+    "featured": true,
+    "colors": [
+      "#353A3C"
+    ],
+    "company": "Microsoft",
+    "description": "You're always one step ahead. So is Surface Pro X. The sleek design and ultimate mobility combine with razor-thin bezels allow you to push your ideas to the limit on the brilliant 13, virtually edge-to-edge, touch screen. Always stay connected and work more efficiently anywhere with blazing-fast LTE.³ For a premium laptop experience on the go, click Surface Pro X Signature Keyboard with Slim Pen* in place. The Pen stores securely and recharges in the keyboard, so it's always at your fingertips.",
+    "category": "tablet"
+    },
+    {
+      "id": 29,
+      "name": "Samsung - Galaxy Tab S7 11 256GB With S Pen Wi-Fi - Mystic Navy",
+    "price": 72999,
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6450/6450155_sd.jpg;maxHeight=640;maxWidth=550",
+    "colors": [
+      "#c1dfdb"
+    ],
+    "company": "Samsung",
+    "description": "With the power of a PC and the mobility of a tablet, the Samsung Galaxy Tab S7 is your secret weapon for getting more done— wherever you are. Enjoy the advantages of a true 2-in-1 device, where an expanded keyboard¹ and built-in memory up to 512GB are backed by a battery that lasts the entire workday² for ultimate portability. With a redesigned, minimal-lag S Pen that lets you control a presentation with the tap of a finger and an expanded edge-to-edge screen³ for better streaming, gaming and video chatting, the Galaxy Tab S7 simplifies life, work and play.",
+    "category": "tablet",
+    "shipping": true
+    },
+    {
+      "id": 30,
+      "name": "Hyundai - HyTab Plus 10WB1 - 10 - Tablet - 32GB - Wifi",
+    "price": 8999,
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6439/6439027cv11d.jpg;maxHeight=640;maxWidth=550",
+    "colors": [
+      "#000000"
+    ],
+    "company": "Hyundai",
+    "description": "Introducing you the Hyundai HyTab Plus 10WB1 having a strong quad-core up to 1.8GHz, 2GB of RAM, Storage of 32GB that can be expandable to 128GB with the microSD slot, that enables quick app launches, smooth videos and great performance. The HyTab PLUS 10WB1 comes with a 1280x800 IPS display, with great brightness and super vivid colors to experience, get to browser the web by having WiFi connection and Android 10 as an OS.",
+    "category": "tablet"
+    },
+    {
+      "id": 31,
+      "name": "Lenovo - IdeaCentre A340-22IGM 21.5 Touch-Screen All-In-One - Intel Pentium Silver - 8GB Memory - 1TB HDD - Black",
+    "price": 55999,
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6398/6398131_sd.jpg;maxHeight=640;maxWidth=550",
+    "colors": [
+      "#000000"
+    ],
+    "company": "Lenovo",
+    "description": "Finish office work flawlessly with this all-in-one Lenovo IdeaCentre desktop computer. The 1TB HDD provides ample storage space for projects and media, while the 8GB of RAM and Intel Pentium Silver processor let you run multiple programs effortlessly. This 21.5-inch Lenovo IdeaCentre desktop computer includes a Full HD touchscreen, and integrated Intel UHD graphics produce quality visuals.",
+    "category": "desktop"
+    },
+    {
+      "id": 32,
+      "name": "ASUS - M241DA 23.8'' Touch-Screen All-In-One - AMD R5-3500U - 8GB Memory - 256GB Solid State Drive - Silver - Silver",
+    "price": 69999,
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6424/6424076_sd.jpg;maxHeight=640;maxWidth=550",
+    "colors": [
+      "#C0C0C0"
+    ],
+    "company": "ASUS",
+    "description": "Unbounded vision, unlimited enjoyment",
+    "category": "desktop"
+    },
+    {
+      "id": 33,
+      "name": "Dell - Inspiron 24 Touch screen All-In-One - Intel Core i7 - 16GB Memory - 512GB Solid State Drive - Silver",
+    "price": 114999,
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6440/6440595_sd.jpg;maxHeight=640;maxWidth=550",
+    "colors": [
+      "#C0C0C0"
+    ],
+    "company": "Dell",
+    "description": "Unleash your creativity with this all-in-one Dell Inspiron desktop computer. The 23.8-inch Full HD display delivers detailed visuals and offers smooth touch operation, while the 512GB SSD minimizes load times, letting you jump into work sessions quickly. This Dell Inspiron desktop computer has an 11th Gen Intel Core i7 processor and 16GB of RAM for running multiple programs simultaneously. Built in webcam, microphone, and speakers to win at conference calls.",
+    "category": "desktop",
+    "shipping": true
+    },
+    {
+      "id": 34,
+      "name": "Apple - 27 iMac® with Retina 5K display - Intel Core i5 (3.1GHz) - 8GB Memory - 256GB SSD - Silver",
+    "price": 179999,
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5721/5721940_sd.jpg;maxHeight=640;maxWidth=550",
+    "featured": true,
+    "colors": [
+      "#C0C0C0"
+    ],
+    "company": "Apple",
+    "description": "The 27-inch iMac now comes packed with the latest processors, faster memory, powerful graphics, and ultrafast SSD storage. And the gorgeous Retina 5K display is better than ever with True Tone technology and optional nano-texture glass. With macOS and all its built-in apps, the 27-inch iMac is the total creative package—powered up.",
+    "category": "desktop",
+    "shipping": true
+    },
+    {
+      "id": 35,
+      "name": "HP - ENVY 31.5 4K Ultra HD All-In-One - Intel Core i7 - 16GB Memory - NVIDIA GeForce GTX 1650 - 1TB SSD - Nightfall Black",
+    "price": 205999,
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6454/6454557_sd.jpg;maxHeight=640;maxWidth=550",
+    "colors": [
+      "#4c4f4f "
+    ],
+    "company": "HP",
+    "description": "Power to create with ease: Experience impressive performance with an Intel® processor, NVIDIA® graphics, and ample memory and fast storage so you can power through your photo and video projects effortlessly. True-to-life colors that amaze: See your creations come to life on a stunning 31.5-inch diagonal, wide-color-gamut HDR 4K display.(37) With 600 nits peak brightness and anti-reflective coating, view and edit creative projects with high color accuracy and without the glare. Intuitively designed for you: Enjoy easy access to ports, wireless charging, a multi-device keyboard and accurate audio with tweeters and subwoofer custom tuned by Bang & Olufsen. Privacy camera for peace of mind: Protect your privacy with the help of a 1920p pop-up privacy camera featuring an 88° wide-angle field of view and microphone that are enabled only when in use.",
+    "category": "desktop"
+    },
+    {
+      "id": 36,
+      "name": "24 iMac® with Retina 4.5K display - Apple M1 - 8GB Memory - 256GB SSD (Latest Model) - Pink",
+    "price": 129999,
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6450/6450918_sd.jpg;maxHeight=640;maxWidth=550",
+    "colors": [
+      "#FFC0CB"
+    ],
+    "company": "Apple",
+    "description": "You’ve never seen a computer like this before. With a strikingly thin design made possible by the Apple M1 chip. An immersive 24-inch 4.5K Retina display with over a billion colors that gives you the big picture in stunning detail.¹ The best camera and mics ever in a Mac so you look and sound your best. And roomfilling, six-speaker sound that takes movies and music to the next level. It works seamlessly with iPhone so texts and calls go right to your iMac. And with a spectrum of colors to choose from, it’s the all-in-one that’s all yours.",
+    "category": "desktop"
+    },
+    {
+      "id": 37,
+      "name": "Asus V241DADB301 All-in-One Computer - AMD Ryzen 3 3250U 2.60 GHz - 8 GB RAM DDR4 SDRAM - 512 GB SSD",
+    "price": 59999,
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6437/6437958cv2d.jpg;maxHeight=640;maxWidth=550",
+    "colors": [
+      "#FFD700"
+    ],
+    "company": "ASUS",
+    "description": "ASUS V241DADB301 All-in-One PC features a 23.8-inch 16:9 anti-glare display that ensures crystal-clear images. This all-in-one is built for effortless performance and smooth multitasking. V241 is designed for convenient connectivity and is equipped with expansive connectivity. Zen plastic golden wired keyboard and mouse included.Blitz Through Everyday Tasks,Powered to handle any task at hand with up to an AMD Ryzen™ 5 Processor. A perfect solution for your everyday computing needs to surf the web and catch up with emails.",
+    "category": "desktop",
+    "shipping": true
+    },
+    {
+      "id": 38,
+      "name": "Microsoft - Surface Studio 2 - 28 Touch-Screen All-In-One - Intel Core i7 - 16GB Memory - 1TB Solid State Drive (Latest Model) - Platinum",
+    "price": 349999,
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6302/6302202_sd.jpg;maxHeight=640;maxWidth=550",
+    "colors": [
+      "#E5E4E2"
+    ],
+    "company": "Microsoft",
+    "description": "Dive into brilliant color, blazing graphics, and fast processors that fuel your creativity. Ideas flow when you adjust the stunning 28 display, working upright at your desktop or down low at your drafting table with intuitive tools designed to ignite your imagination.",
+    "category": "desktop"
+    },
+    {
+      "id": 39,
+      "name": "Amazon - Echo Dot (4th Gen) Smart speaker with Alexa - Charcoal",
+    "price": 4999,
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6430/6430060_sd.jpg;maxHeight=640;maxWidth=550",
+    "colors": [
+      "#36454F"
+    ],
+    "company": "Amazon",
+    "description": "Meet the all-new Echo Dot. Round out any room with Alexa. Our most popular smart speaker has a sleek, compact design that fits perfectly into small spaces. It delivers crisp vocals and balanced bass for full sound you can enjoy anywhere in your home.",
+    "category": "smart home"
+    },
+    {
+      "id": 40,
+      "name": "Amazon - Echo Studio Smart Speaker with Alexa - Charcoal",
+    "price": 19999,
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6347/6347267_sd.jpg;maxHeight=640;maxWidth=550",
+    "colors": [
+      "#36454F"
+    ],
+    "company": "Amazon",
+    "description": "Echo Studio creates an immersive, 3-dimensional soundscape, wrapping you in studio-quality audio from every direction. Just ask Alexa to play a song, artist, or genre, and hear new details revealed in your favorite music. Plus, use your voice to check the weather, set alarms, and control compatible smart home devices.",
+    "category": "smart home"
+    },
+    {
+      "id": 41,
+      "name": "Nest Mini (2nd Generation) Smart Speaker with Google Assistant - Chalk",
+    "price": 4999,
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6348/6348878_sd.jpg;maxHeight=640;maxWidth=550",
+    "colors": [
+      "#e0dbd1"
+    ],
+    "company": "Google",
+    "description": "Meet the 2nd generation Nest Mini, the smart speaker you control with your voice. Just say 'Hey Google' to play songs from Spotify, YouTube Music, and more.¹ Music sounds bigger and richer. Ask your Google Assistant about the weather, news, or almost anything. Hear your personalized schedule, current weather conditions, and reminders.² Set timers and alarms. And control your compatible smart devices.³",
+    "category": "smart home"
+    },
+    {
+      "id": 42,
+      "name": "Sonos - Move Smart Portable Wi-Fi and Bluetooth Speaker with Alexa and Google Assistant - Black",
+    "price": 39999,
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6361/6361922_sd.jpg;maxHeight=640;maxWidth=550",
+    "colors": [
+      "#000000"
+    ],
+    "company": "Sonos",
+    "description": "Play your favorite tunes anywhere with this weatherproof and drop-resistant Sonos Move portable speaker. The Trueplay automatic tuning adapts and balances the sound based on where you are and what you're listening to. This Sonos Move portable speaker incorporates built-in support for Wi-Fi, Bluetooth, Airplay and the Sonos app to let you stream audio from a smart device.",
+    "category": "smart home"
+    },
+    {
+      "id": 43,
+      "name": "Apple - HomePod mini - Space Gray",
+    "price": 9999,
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6377/6377587cv11d.jpg;maxHeight=640;maxWidth=550",
+    "featured": true,
+    "colors": [
+      "#000000",
+      "#ffffff"
+    ],
+    "company": "Apple",
+    "description": "Jam-packed with innovation, HomePod mini fills the entire room with rich 360-degree audio. Place multiple speakers around the house for a connected sound system.² And with Siri, your favorite do-it-all intelligent assistant helps with everyday tasks and controls your smart home privately and securely.¹",
+    "category": "smart home"
+    }
+  ]
+}
